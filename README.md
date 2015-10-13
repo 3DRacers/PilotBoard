@@ -1,7 +1,7 @@
 # 3DRacers PilotBoard
 The first 3D Printed Racing Game, Smartphone-driven and Arduino-compatible
 
-![Alt text](/renders/top.jpg?raw=true "Top view") ![Alt text](/renders/bottom.jpg?raw=true "Bottom view")
+![Alt text](/renders/bottom.jpg?raw=true "Bottom view") ![Alt text](/renders/top.jpg?raw=true "Top view")
 
 ## The Game
 
