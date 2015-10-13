@@ -28,7 +28,7 @@ However, if you created your own 3DRacers Pilot variation, or you want to modify
 
 3DRacers Pilot boards support shields, like a standard Arduino. The proto shield is the simpliest shield, that allows soldering of trought-hole components or connectors, but you can use the Eagle file as a template to create your own shield.
 
-![Alt text](/renders/proto_shield-top.jpg?raw=true "Proto Shield Top view") ![Alt text](/renders/proto_shield-bottom.jpg?raw=true "Proto Shield Bottom view")
+![Alt text](/renders/proto_shield.jpg?raw=true "Proto Shield Top view") ![Alt text](/renders/proto_shield-bottom.jpg?raw=true "Proto Shield Bottom view")
 
 ### Development
 
